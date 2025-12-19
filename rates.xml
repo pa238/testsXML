@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+<data date="2025-12-10">
+  <currencies>
+    <currency name="AED"/>
+    <currency name="AFN"/>
+    <currency name="ALL"/>
+    <currency name="AMD"/>
+    <currency name="ANG"/>
+    <currency name="AOA"/>
+    <currency name="ARS"/>
+    <currency name="AUD"/>
+    <currency name="AWG"/>
+    <currency name="AZN"/>
+    <currency name="BAM"/>
+    <currency name="BBD"/>
+    <currency name="BDT"/>
+    <currency name="BGN"/>
+    <currency name="BHD"/>
+    <currency name="BIF"/>
+    <currency name="BMD"/>
+    <currency name="BND"/>
+    <currency name="BOB"/>
+    <currency name="BRL"/>
+    <currency name="BSD"/>
+    <currency name="BTC"/>
+    <currency name="BTN"/>
+    <currency name="BWP"/>
+    <currency name="BYN"/>
+    <currency name="BYR"/>
+    <currency name="BZD"/>
+    <currency name="CAD"/>
+    <currency name="CDF"/>
+    <currency name="CHF"/>
+    <currency name="CLF"/>
+    <currency name="CLP"/>
+    <currency name="CNY"/>
+    <currency name="CNH"/>
+    <currency name="COP"/>
+    <currency name="CRC"/>
+    <currency name="CUC"/>
+    <currency name="CUP"/>
+    <currency name="CVE"/>
+    <currency name="CZK"/>
+    <currency name="DJF"/>
+    <currency name="DKK"/>
+    <currency name="DOP"/>
+    <currency name="DZD"/>
+    <currency name="EGP"/>
+    <currency name="ERN"/>
+    <currency name="ETB"/>
+    <currency name="EUR"/>
+    <currency name="FJD"/>
+    <currency name="FKP"/>
+    <currency name="GBP"/>
+    <currency name="GEL"/>
+    <currency name="GGP"/>
+    <currency name="GHS"/>
+    <currency name="GIP"/>
+    <currency name="GMD"/>
+    <currency name="GNF"/>
+    <currency name="GTQ"/>
+    <currency name="GYD"/>
+    <currency name="HKD"/>
+    <currency name="HNL"/>
+    <currency name="HRK"/>
+    <currency name="HTG"/>
+    <currency name="HUF"/>
+    <currency name="IDR"/>
+    <currency name="ILS"/>
+    <currency name="IMP"/>
+    <currency name="INR"/>
+    <currency name="IQD"/>
+    <currency name="IRR"/>
+    <currency name="ISK"/>
+    <currency name="JEP"/>
+    <currency name="JMD"/>
+    <currency name="JOD"/>
+    <currency name="JPY"/>
+    <currency name="KES"/>
+    <currency name="KGS"/>
+    <currency name="KHR"/>
+    <currency name="KMF"/>
+    <currency name="KPW"/>
+    <currency name="KRW"/>
+    <currency name="KWD"/>
+    <currency name="KYD"/>
+    <currency name="KZT"/>
+    <currency name="LAK"/>
+    <currency name="LBP"/>
+    <currency name="LKR"/>
+    <currency name="LRD"/>
+    <currency name="LSL"/>
+    <currency name="LTL"/>
+    <currency name="LVL"/>
+    <currency name="LYD"/>
+    <currency name="MAD"/>
+    <currency name="MDL"/>
+    <currency name="MGA"/>
+    <currency name="MKD"/>
+    <currency name="MMK"/>
+    <currency name="MNT"/>
+    <currency name="MOP"/>
+    <currency name="MRU"/>
+    <currency name="MUR"/>
+    <currency name="MVR"/>
+    <currency name="MWK"/>
+    <currency name="MXN"/>
+    <currency name="MYR"/>
+    <currency name="MZN"/>
+    <currency name="NAD"/>
+    <currency name="NGN"/>
+    <currency name="NIO"/>
+    <currency name="NOK"/>
+    <currency name="NPR"/>
+    <currency name="NZD"/>
+    <currency name="OMR"/>
+    <currency name="PAB"/>
+    <currency name="PEN"/>
+    <currency name="PGK"/>
+    <currency name="PHP"/>
+    <currency name="PKR"/>
+    <currency name="PLN"/>
+    <currency name="PYG"/>
+    <currency name="QAR"/>
+    <currency name="RON"/>
+    <currency name="RSD"/>
+    <currency name="RUB"/>
+    <currency name="RWF"/>
+    <currency name="SAR"/>
+    <currency name="SBD"/>
+    <currency name="SCR"/>
+    <currency name="SDG"/>
+    <currency name="SEK"/>
+    <currency name="SGD"/>
+    <currency name="SHP"/>
+    <currency name="SLE"/>
+    <currency name="SLL"/>
+    <currency name="SOS"/>
+    <currency name="SRD"/>
+    <currency name="STD"/>
+    <currency name="STN"/>
+    <currency name="SVC"/>
+    <currency name="SYP"/>
+    <currency name="SZL"/>
+    <currency name="THB"/>
+    <currency name="TJS"/>
+    <currency name="TMT"/>
+    <currency name="TND"/>
+    <currency name="TOP"/>
+    <currency name="TRY"/>
+    <currency name="TTD"/>
+    <currency name="TWD"/>
+    <currency name="TZS"/>
+    <currency name="UAH"/>
+    <currency name="UGX"/>
+    <currency name="UYU"/>
+    <currency name="UZS"/>
+    <currency name="VES"/>
+    <currency name="VND"/>
+    <currency name="VUV"/>
+    <currency name="WST"/>
+    <currency name="XAF"/>
+    <currency name="XAG"/>
+    <currency name="XAU"/>
+    <currency name="XCD"/>
+    <currency name="XCG"/>
+    <currency name="XDR"/>
+    <currency name="XOF"/>
+    <currency name="XPF"/>
+    <currency name="YER"/>
+    <currency name="ZAR"/>
+    <currency name="ZMK"/>
+    <currency name="ZMW"/>
+    <currency name="ZWL"/>
+  </currencies>
+  <pairs>
+    <pair source="USD" target="AED" rate="3.672801"/>
+    <pair source="USD" target="AFN" rate="66.000198"/>
+    <pair source="USD" target="ALL" rate="82.249802"/>
+    <pair source="USD" target="AMD" rate="381.494813"/>
+    <pair source="USD" target="ANG" rate="1.790403"/>
+    <pair source="USD" target="AOA" rate="917.000296"/>
+    <pair source="USD" target="ARS" rate="1450.069599"/>
+    <pair source="USD" target="AUD" rate="1.511784"/>
+    <pair source="USD" target="AWG" rate="1.8"/>
+    <pair source="USD" target="AZN" rate="1.697339"/>
+    <pair source="USD" target="BAM" rate="1.669612"/>
+    <pair source="USD" target="BBD" rate="2.015307"/>
+    <pair source="USD" target="BDT" rate="122.367966"/>
+    <pair source="USD" target="BGN" rate="1.66904"/>
+    <pair source="USD" target="BHD" rate="0.377022"/>
+    <pair source="USD" target="BIF" rate="2965"/>
+    <pair source="USD" target="BMD" rate="1"/>
+    <pair source="USD" target="BND" rate="1.291862"/>
+    <pair source="USD" target="BOB" rate="6.914156"/>
+    <pair source="USD" target="BRL" rate="5.522698"/>
+    <pair source="USD" target="BSD" rate="1.00061"/>
+    <pair source="USD" target="BTC" rate="1.1690178E-5"/>
+    <pair source="USD" target="BTN" rate="90.277748"/>
+    <pair source="USD" target="BWP" rate="13.222922"/>
+    <pair source="USD" target="BYN" rate="2.935756"/>
+    <pair source="USD" target="BYR" rate="19600"/>
+    <pair source="USD" target="BZD" rate="2.012438"/>
+    <pair source="USD" target="CAD" rate="1.377665"/>
+    <pair source="USD" target="CDF" rate="2264.000138"/>
+    <pair source="USD" target="CHF" rate="0.794165"/>
+    <pair source="USD" target="CLF" rate="0.023226"/>
+    <pair source="USD" target="CLP" rate="911.140276"/>
+    <pair source="USD" target="CNY" rate="7.04125"/>
+    <pair source="USD" target="CNH" rate="7.033602"/>
+    <pair source="USD" target="COP" rate="3863.71"/>
+    <pair source="USD" target="CRC" rate="498.555129"/>
+    <pair source="USD" target="CUC" rate="1"/>
+    <pair source="USD" target="CUP" rate="26.5"/>
+    <pair source="USD" target="CVE" rate="94.449761"/>
+    <pair source="USD" target="CZK" rate="20.772501"/>
+    <pair source="USD" target="DJF" rate="177.719682"/>
+    <pair source="USD" target="DKK" rate="6.37182"/>
+    <pair source="USD" target="DOP" rate="62.550194"/>
+    <pair source="USD" target="DZD" rate="129.70444"/>
+    <pair source="USD" target="EGP" rate="47.504599"/>
+    <pair source="USD" target="ERN" rate="15"/>
+    <pair source="USD" target="ETB" rate="155.202842"/>
+    <pair source="USD" target="EUR" rate="0.85284"/>
+    <pair source="USD" target="FJD" rate="2.29175"/>
+    <pair source="USD" target="FKP" rate="0.746872"/>
+    <pair source="USD" target="GBP" rate="0.747183"/>
+    <pair source="USD" target="GEL" rate="2.689861"/>
+    <pair source="USD" target="GGP" rate="0.746872"/>
+    <pair source="USD" target="GHS" rate="11.52501"/>
+    <pair source="USD" target="GIP" rate="0.746872"/>
+    <pair source="USD" target="GMD" rate="73.500584"/>
+    <pair source="USD" target="GNF" rate="8685.000123"/>
+    <pair source="USD" target="GTQ" rate="7.663578"/>
+    <pair source="USD" target="GYD" rate="209.345507"/>
+    <pair source="USD" target="HKD" rate="7.78085"/>
+    <pair source="USD" target="HNL" rate="26.179876"/>
+    <pair source="USD" target="HRK" rate="6.425199"/>
+    <pair source="USD" target="HTG" rate="131.049996"/>
+    <pair source="USD" target="HUF" rate="330.6625"/>
+    <pair source="USD" target="IDR" rate="16697.1"/>
+    <pair source="USD" target="ILS" rate="3.208805"/>
+    <pair source="USD" target="IMP" rate="0.746872"/>
+    <pair source="USD" target="INR" rate="90.259297"/>
+    <pair source="USD" target="IQD" rate="1310"/>
+    <pair source="USD" target="IRR" rate="42125.00004"/>
+    <pair source="USD" target="ISK" rate="125.879828"/>
+    <pair source="USD" target="JEP" rate="0.746872"/>
+    <pair source="USD" target="JMD" rate="160.101077"/>
+    <pair source="USD" target="JOD" rate="0.709002"/>
+    <pair source="USD" target="JPY" rate="155.602953"/>
+    <pair source="USD" target="KES" rate="128.885341"/>
+    <pair source="USD" target="KGS" rate="87.449944"/>
+    <pair source="USD" target="KHR" rate="4009.999712"/>
+    <pair source="USD" target="KMF" rate="421.000083"/>
+    <pair source="USD" target="KPW" rate="899.993999"/>
+    <pair source="USD" target="KRW" rate="1476.507781"/>
+    <pair source="USD" target="KWD" rate="0.306902"/>
+    <pair source="USD" target="KYD" rate="0.833782"/>
+    <pair source="USD" target="KZT" rate="516.249648"/>
+    <pair source="USD" target="LAK" rate="21656.000193"/>
+    <pair source="USD" target="LBP" rate="89549.999776"/>
+    <pair source="USD" target="LKR" rate="309.584176"/>
+    <pair source="USD" target="LRD" rate="177.410549"/>
+    <pair source="USD" target="LSL" rate="16.735011"/>
+    <pair source="USD" target="LTL" rate="2.95274"/>
+    <pair source="USD" target="LVL" rate="0.60489"/>
+    <pair source="USD" target="LYD" rate="5.420377"/>
+    <pair source="USD" target="MAD" rate="9.175004"/>
+    <pair source="USD" target="MDL" rate="16.874536"/>
+    <pair source="USD" target="MGA" rate="4527.999814"/>
+    <pair source="USD" target="MKD" rate="52.517746"/>
+    <pair source="USD" target="MMK" rate="2100.057046"/>
+    <pair source="USD" target="MNT" rate="3547.602841"/>
+    <pair source="USD" target="MOP" rate="8.019874"/>
+    <pair source="USD" target="MRU" rate="39.759768"/>
+    <pair source="USD" target="MUR" rate="46.040137"/>
+    <pair source="USD" target="MVR" rate="15.460063"/>
+    <pair source="USD" target="MWK" rate="1737.999768"/>
+    <pair source="USD" target="MXN" rate="17.99465"/>
+    <pair source="USD" target="MYR" rate="4.084506"/>
+    <pair source="USD" target="MZN" rate="63.909674"/>
+    <pair source="USD" target="NAD" rate="16.740287"/>
+    <pair source="USD" target="NGN" rate="1457.879835"/>
+    <pair source="USD" target="NIO" rate="36.709641"/>
+    <pair source="USD" target="NOK" rate="10.153599"/>
+    <pair source="USD" target="NPR" rate="144.441314"/>
+    <pair source="USD" target="NZD" rate="1.730882"/>
+    <pair source="USD" target="OMR" rate="0.384416"/>
+    <pair source="USD" target="PAB" rate="1.000627"/>
+    <pair source="USD" target="PEN" rate="3.365972"/>
+    <pair source="USD" target="PGK" rate="4.24925"/>
+    <pair source="USD" target="PHP" rate="58.589675"/>
+    <pair source="USD" target="PKR" rate="280.249899"/>
+    <pair source="USD" target="PLN" rate="3.58453"/>
+    <pair source="USD" target="PYG" rate="6680.126517"/>
+    <pair source="USD" target="QAR" rate="3.641201"/>
+    <pair source="USD" target="RON" rate="4.341698"/>
+    <pair source="USD" target="RSD" rate="100.164267"/>
+    <pair source="USD" target="RUB" rate="79.916592"/>
+    <pair source="USD" target="RWF" rate="1452"/>
+    <pair source="USD" target="SAR" rate="3.750821"/>
+    <pair source="USD" target="SBD" rate="8.140117"/>
+    <pair source="USD" target="SCR" rate="14.79766"/>
+    <pair source="USD" target="SDG" rate="601.505356"/>
+    <pair source="USD" target="SEK" rate="9.28132"/>
+    <pair source="USD" target="SGD" rate="1.290055"/>
+    <pair source="USD" target="SHP" rate="0.750259"/>
+    <pair source="USD" target="SLE" rate="24.099896"/>
+    <pair source="USD" target="SLL" rate="20969.503664"/>
+    <pair source="USD" target="SOS" rate="571.502368"/>
+    <pair source="USD" target="SRD" rate="38.677965"/>
+    <pair source="USD" target="STD" rate="20697.981008"/>
+    <pair source="USD" target="STN" rate="21.2"/>
+    <pair source="USD" target="SVC" rate="8.755448"/>
+    <pair source="USD" target="SYP" rate="11058.365356"/>
+    <pair source="USD" target="SZL" rate="16.740067"/>
+    <pair source="USD" target="THB" rate="31.410022"/>
+    <pair source="USD" target="TJS" rate="9.240587"/>
+    <pair source="USD" target="TMT" rate="3.51"/>
+    <pair source="USD" target="TND" rate="2.9045"/>
+    <pair source="USD" target="TOP" rate="2.40776"/>
+    <pair source="USD" target="TRY" rate="42.806502"/>
+    <pair source="USD" target="TTD" rate="6.789428"/>
+    <pair source="USD" target="TWD" rate="31.529102"/>
+    <pair source="USD" target="TZS" rate="2490.000201"/>
+    <pair source="USD" target="UAH" rate="42.262365"/>
+    <pair source="USD" target="UGX" rate="3574.401243"/>
+    <pair source="USD" target="UYU" rate="39.209995"/>
+    <pair source="USD" target="UZS" rate="12024.999759"/>
+    <pair source="USD" target="VES" rate="279.213403"/>
+    <pair source="USD" target="VND" rate="26325"/>
+    <pair source="USD" target="VUV" rate="121.372904"/>
+    <pair source="USD" target="WST" rate="2.784715"/>
+    <pair source="USD" target="XAF" rate="559.97217"/>
+    <pair source="USD" target="XAG" rate="0.015242"/>
+    <pair source="USD" target="XAU" rate="0.000231"/>
+    <pair source="USD" target="XCD" rate="2.70255"/>
+    <pair source="USD" target="XCG" rate="1.803297"/>
+    <pair source="USD" target="XDR" rate="0.69494"/>
+    <pair source="USD" target="XOF" rate="558.000173"/>
+    <pair source="USD" target="XPF" rate="102.201461"/>
+    <pair source="USD" target="YER" rate="238.44971"/>
+    <pair source="USD" target="ZAR" rate="16.733497"/>
+    <pair source="USD" target="ZMK" rate="9001.203157"/>
+    <pair source="USD" target="ZMW" rate="22.76404"/>
+    <pair source="USD" target="ZWL" rate="321.999592"/>
+  </pairs>
+</data>
